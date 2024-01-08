@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(253, 253, 253);
+    margin: 0%;
+}
+.head{
+    background-color: #E3FDFD;
+    color: #71C9CE;
+
+}
+.name{
+    margin-top: 0%;
+}
+.top-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container{
+    background-color: rgb(38, 0, 255);
+    width: 200px;
+    height: 200px;
+}

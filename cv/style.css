@@ -1,0 +1,18 @@
+
+body {
+    background-color: #d2ecec;
+    align-items: center;
+}
+hr{
+    border-color: gray;
+    border-style: none;
+    border-width: 5px;
+    border-top-style: dotted;
+    width: 5%;
+  
+   
+}
+h1,h3{
+  font-family: Helvetica;
+    color: #66BFBF;
+}

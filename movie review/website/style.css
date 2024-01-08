@@ -1,0 +1,10 @@
+.movie{
+    display: flex;
+    gap: 10px;
+}
+.heading{
+    display: block;
+}
+.des{
+    display: block;
+}
